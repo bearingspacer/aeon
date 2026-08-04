@@ -60,7 +60,7 @@ skills:
   executor-mcp: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — run a task through the Executor Cloud tool catalog (executor.sh/mcp; one MCP endpoint proxying the operator's connected integrations, per-tool allow/approve/block policies; OAuth Connect in the dashboard). var: the task
   finance-district-mcp: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — multichain non-custodial agent wallet via the Finance District MCP (keys in a TEE, server-side spend caps; OAuth Connect in the dashboard). var: empty=daily wallet brief | best USDC yield on Base | swap 5 USDC to ETH on Base | pay <x402-url> for <data>
   autoresearch: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — set var to skill name to evolve
-  create-skill: { enabled: true, schedule: "workflow_dispatch", var: "AI" } # one-shot skill creator — set var to a description prompt
+  create-skill: { enabled: false, schedule: "workflow_dispatch", var: "AI" } # one-shot skill creator — set var to a description prompt
   install-skill: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — install a community skill pack and open a PR; var: owner/repo [skill...]
 
   # --- Knowledge / OKF (memory/topics is a native OKF bundle; see docs/OKF.md) ---
