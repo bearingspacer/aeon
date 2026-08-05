@@ -61,7 +61,7 @@ skills:
   finance-district-mcp: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — multichain non-custodial agent wallet via the Finance District MCP (keys in a TEE, server-side spend caps; OAuth Connect in the dashboard). var: empty=daily wallet brief | best USDC yield on Base | swap 5 USDC to ETH on Base | pay <x402-url> for <data>
   autoresearch: { enabled: true, schedule: "workflow_dispatch", var: "" } # on-demand — set var to skill name to evolve
   create-skill: { enabled: true, schedule: "workflow_dispatch", var: "AI" } # one-shot skill creator — set var to a description prompt
-  install-skill: { enabled: false, schedule: "workflow_dispatch", var: "" } # on-demand — install a community skill pack and open a PR; var: owner/repo [skill...]
+  install-skill: { enabled: true, schedule: "workflow_dispatch", var: "" } # on-demand — install a community skill pack and open a PR; var: owner/repo [skill...]
 
   # --- Knowledge / OKF (memory/topics is a native OKF bundle; see docs/OKF.md) ---
   okf-export: { enabled: false, schedule: "workflow_dispatch", var: "" } # one-shot backfill — add type: frontmatter to existing memory/topics notes + open a PR. var: empty=all | <file.md>|<subdir>
