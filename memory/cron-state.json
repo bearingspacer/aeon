@@ -1,6 +1,14 @@
 {
   "heartbeat": {
-    "last_dispatch": "2026-07-02T21:23:42Z",
+    "last_dispatch": "2026-08-05T11:26:55Z",
+    "last_status": "dispatched"
+  },
+  "price-alert": {
+    "last_dispatch": "2026-08-05T11:26:55Z",
+    "last_status": "dispatched"
+  },
+  "memory-flush": {
+    "last_dispatch": "2026-08-05T11:26:55Z",
     "last_status": "dispatched"
   }
 }
