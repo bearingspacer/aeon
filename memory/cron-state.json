@@ -4,7 +4,7 @@
     "last_status": "dispatched"
   },
   "price-alert": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-05T20:47:46Z",
     "last_status": "dispatched"
   },
   "memory-flush": {
@@ -45,6 +45,10 @@
   },
   "seo-audit": {
     "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_status": "dispatched"
+  },
+  "self-improve": {
+    "last_dispatch": "2026-08-05T20:47:46Z",
     "last_status": "dispatched"
   }
 }
