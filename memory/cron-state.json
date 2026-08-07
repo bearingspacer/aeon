@@ -4,11 +4,11 @@
     "last_status": "dispatched"
   },
   "price-alert": {
-    "last_dispatch": "2026-08-06T10:17:16Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "memory-flush": {
-    "last_dispatch": "2026-08-06T00:11:37Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "token-movers": {
@@ -24,27 +24,27 @@
     "last_status": "dispatched"
   },
   "narrative-tracker": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "article": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "digest": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "changelog": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "fetch-tweets": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "seo-audit": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T01:44:52Z",
     "last_status": "dispatched"
   },
   "self-improve": {
