@@ -4,7 +4,7 @@
     "last_status": "dispatched"
   },
   "price-alert": {
-    "last_dispatch": "2026-08-07T12:03:02Z",
+    "last_dispatch": "2026-08-07T15:13:29Z",
     "last_status": "dispatched"
   },
   "memory-flush": {
@@ -20,19 +20,19 @@
     "last_status": "dispatched"
   },
   "monitor-polymarket": {
-    "last_dispatch": "2026-08-05T17:07:54Z",
+    "last_dispatch": "2026-08-07T15:13:29Z",
     "last_status": "dispatched"
   },
   "narrative-tracker": {
-    "last_dispatch": "2026-08-07T01:44:52Z",
+    "last_dispatch": "2026-08-07T15:13:29Z",
     "last_status": "dispatched"
   },
   "article": {
-    "last_dispatch": "2026-08-07T01:44:52Z",
+    "last_dispatch": "2026-08-07T15:13:29Z",
     "last_status": "dispatched"
   },
   "digest": {
-    "last_dispatch": "2026-08-07T01:44:52Z",
+    "last_dispatch": "2026-08-07T15:13:29Z",
     "last_status": "dispatched"
   },
   "changelog": {
@@ -44,7 +44,7 @@
     "last_status": "dispatched"
   },
   "seo-audit": {
-    "last_dispatch": "2026-08-07T01:44:52Z",
+    "last_dispatch": "2026-08-07T15:13:29Z",
     "last_status": "dispatched"
   },
   "self-improve": {
