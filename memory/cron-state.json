@@ -4,7 +4,7 @@
     "last_status": "dispatched"
   },
   "price-alert": {
-    "last_dispatch": "2026-08-08T16:03:51Z",
+    "last_dispatch": "2026-08-08T17:50:55Z",
     "last_status": "dispatched"
   },
   "memory-flush": {
@@ -40,7 +40,7 @@
     "last_status": "dispatched"
   },
   "fetch-tweets": {
-    "last_dispatch": "2026-08-07T18:06:07Z",
+    "last_dispatch": "2026-08-08T17:50:55Z",
     "last_status": "dispatched"
   },
   "seo-audit": {
